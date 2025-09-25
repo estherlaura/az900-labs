@@ -10,3 +10,4 @@ Resource groups keep related resources together, it's like a folder. By using na
 - Documented my naming standard: type-projet-env-number
 - ### screenshots
 ![Resource Group Overview](rg-overview.png)
+![Tags Applied](rg-tags.png) 
