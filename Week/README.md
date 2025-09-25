@@ -9,3 +9,4 @@ Resource groups keep related resources together, it's like a folder. By using na
 - Applied tags: owener=estherlaura, projet=az900-week1, env=dev
 - Documented my naming standard: type-projet-env-number
 - ### screenshots
+![Resource Group Overview](rg-overview.png)
