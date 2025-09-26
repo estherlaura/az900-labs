@@ -15,3 +15,7 @@ Resource groups keep related resources together, it's like a folder. By using na
 - Resources groups are like folders for cloud resources.
 - Good naming + tags are essential for enterprise cloud governance.
 - I now have a clean starting place for all labs this week.
+
+
+
+
