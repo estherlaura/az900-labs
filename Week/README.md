@@ -11,4 +11,8 @@ Resource groups keep related resources together, it's like a folder. By using na
 - ### screenshots
 ![Resource Group Overview](rg-overview.png)
 
+
+
+
+
 ![Tags Applied](rg-tags.png) 
